@@ -9,7 +9,7 @@ you could run it with this image using:
 
 It could also be used as a base for a new image to include additional perl modules:
 ```
-FROM giojiteiro/alpine-perl-dancer2
+FROM giovesgo/alpine-perl-dancer2
 cpanm YOUR-MODULE \
       YOUR-MODULE-2 \
       YOUR-MODULE-3
